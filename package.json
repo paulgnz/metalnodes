@@ -12,7 +12,8 @@
 	},
 	"devDependencies": {
 		"@playwright/test": "1.25.0",
-		"@sveltejs/adapter-auto": "latest",
+		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-vercel": "next",
 		"@sveltejs/kit": "latest",
 		"autoprefixer": "^10.4.7",
 		"daisyui": "^2.39.0",
